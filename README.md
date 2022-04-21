@@ -12,7 +12,9 @@
 - 📄 I'm a Toptal Vetted Developer - Which means that I'm Good: [https://toptal.com/resume/ayyaz-ali](https://toptal.com/resume/ayyaz-ali)
 
 - ⚡ Fun fact **I enjoy writing code. In my spare time, I like to play video games and listen to music.**
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyazali&show_icons=true&locale=en&layout=compact" alt="ayyazali" /></p>
+  </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayyazalifurqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyazalifurqan" height="30" width="40" /></a>

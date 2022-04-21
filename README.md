@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayyaz Ali</h1>
-<h3 align="center">I'm a full-stack developer with several years of experience that includes building an education platform that has helped over 1 million students worldwide, leading teams of up to ten to deliver solutions, and deploying and managing serverless apps on AWS. Ayyaz’s skill set includes a range of frameworks (Express.js and Next.js), libraries/APIs (React, Node.js), and storage (MongoDB). What really makes me stand out from the crowd of web developers is his ability to handle product builds.</h3>
+<h3 align="center">Senior Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyazali&label=Profile%20views&color=0e75b6&style=flat" alt="ayyazali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyazali" alt="ayyazali" /></a> </p>
+- I'm a full-stack developer with several years of experience that includes building an education platform that has helped over 1 million students worldwide, leading teams of up to ten to deliver solutions, and deploying and managing serverless apps on AWS. My skill set includes a range of frameworks (Express.js and Next.js), libraries/APIs (React, Node.js), and storage (MongoDB). What really makes me stand out from the crowd of web developers is his ability to handle product builds. **.**
 
 - 🌱 I’m currently learning **AWS Cloud Technologies**
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayyazalifurqan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayyazalifurqan3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayyazalifurqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyazalifurqan" height="30" width="40" /></a>
 </p>
 

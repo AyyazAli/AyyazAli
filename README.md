@@ -9,7 +9,7 @@
 
 - 📫 You can Reach me at: **ayyazalifurqan@gmail.com**
 
-- 📄 I'm a Toptal Vetted Developer - Which means that I'm Good: [https://toptal.com/resume/ayyaz-ali](https://toptal.com/resume/ayyaz-ali)
+- 📄 I'm a Toptal Vetted Developer - Which means that I'm Good
 
 - ⚡ Fun fact **I enjoy writing code. In my spare time, I like to play video games and listen to music.**
 <p align="left" style="display:block">
